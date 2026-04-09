@@ -1,6 +1,8 @@
 # Open-CanSat
 A flight-tested versatile open-source atmospheric probe designed for the European Space Agency's CanSat competition with modularity in mind.
 
+While we designed it with our own mission in mind, we encourage others to use our designs for their own CanSat projects and competitions, as long as our project is credited appropriately. You can freely download the design files and modify them to your own mission requirements.
+
 <img width="905" height="725" alt="Screenshot 2025-04-09 at 15 20 26" src="https://github.com/user-attachments/assets/d1dc5324-e887-4992-9edf-0f330b416fa4" />
 
 # Design overview:
@@ -35,11 +37,11 @@ Avionics:
 
 Hardware:
 1. 70 cm orange parachute
-2. 2x ø6 mm OD, ø4 mm ID carbon fiber rods X millimeters long.
+2. 2x ø6 mm OD, ø4 mm ID, 100 mm long carbon fiber rods.
 3. 4x 4 mm expansion screw anchors
-4. 4x M2.5 or M3 20 mm long screws
+4. 4x M2.5x20 mm or M3x20 mm long screws
 5. 3D printed section components
 6. 3D printed outer shield
-7. 304L stainless steel M4 eye bolt
+7. M4 eye bolt
 8. M4 locking nut
 9. Rubber band
