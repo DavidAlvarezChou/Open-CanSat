@@ -6,6 +6,7 @@ While we designed it with our own mission in mind, we encourage others to use ou
 <img align = "center" width="484" height="809" alt="Screenshot 2026-04-09 at 17 40 46" src="https://github.com/user-attachments/assets/862a15a0-187c-4e09-8068-1cea6381264b" />
 <img align = "center" width="905" height="725" alt="Screenshot 2025-04-09 at 15 20 26" src="https://github.com/user-attachments/assets/d1dc5324-e887-4992-9edf-0f330b416fa4" />
 </p>
+
 # Design overview:
 Our design of Open CanSat integrates 5 sensing units to provide 9 different environmental measurements listed below. It also integrates a Meshtastic LoRa unit to enable the probe to act as an airborne repeater to extend the range of off-grid text-messaging Meshtastic infrastructure during its descent. 
 
