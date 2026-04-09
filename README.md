@@ -1,10 +1,11 @@
 # Open-CanSat
-A flight-tested versatile open-source atmospheric probe designed for the European Space Agency's CanSat competition with modularity in mind.
+A flight-tested versatile open-source atmospheric probe designed for the European Space Agency's CanSat competition with modularity and affordability in mind.
 
 While we designed it with our own mission in mind, we encourage others to use our designs for their own CanSat projects and competitions, as long as our project is credited appropriately. You can freely download the design files and modify them to your own mission requirements.
-
-<img width="905" height="725" alt="Screenshot 2025-04-09 at 15 20 26" src="https://github.com/user-attachments/assets/d1dc5324-e887-4992-9edf-0f330b416fa4" />
-
+<p align="center">
+<img align = "center" width="484" height="809" alt="Screenshot 2026-04-09 at 17 40 46" src="https://github.com/user-attachments/assets/862a15a0-187c-4e09-8068-1cea6381264b" />
+<img align = "center" width="905" height="725" alt="Screenshot 2025-04-09 at 15 20 26" src="https://github.com/user-attachments/assets/d1dc5324-e887-4992-9edf-0f330b416fa4" />
+</p>
 # Design overview:
 Our design of Open CanSat integrates 5 sensing units to provide 9 different environmental measurements listed below. It also integrates a Meshtastic LoRa unit to enable the probe to act as an airborne repeater to extend the range of off-grid text-messaging Meshtastic infrastructure during its descent. 
 
@@ -51,3 +52,9 @@ Hardware:
 7. M4 eye bolt
 8. M4 locking nut
 9. Rubber band
+
+<p align="center">
+<img width="542" height="900" alt="vertical" src="https://github.com/user-attachments/assets/2f1fb635-88e0-4f38-a5fc-8830bdc97600" />
+
+
+</p>
