@@ -9,11 +9,17 @@ While we designed it with our own mission in mind, we encourage others to use ou
 Our design of Open CanSat integrates 5 sensing units to provide 9 different environmental measurements listed below. It also integrates a Meshtastic LoRa unit to enable the probe to act as an airborne repeater to extend the range of off-grid text-messaging Meshtastic infrastructure during its descent. 
 
 Sensors:
+
 BME 280: Temperature, humidity, and pressure.
+
 MICS–4515: Relative concentrations of oxidizing and reducing gasses.
+
 QMC5883L: Magnetic field intensity in 3 different axes.
+
 MPU6500: Acceleration and rotation measurements in 3 axes each.
+
 NEO–6M: Position and velocity measurements.
+
 
 The basic structure of the probe is based on twin 6 millimeter carbon fiber rods upon which all the individual 3D–printed sections mount to. This system is designed to come apart with simply unscrewing two screws at the top or the bottom of the probe, making it extremely easy to open to modify and repair.
 
@@ -32,7 +38,7 @@ Avionics:
 10. MICS–4514 dual gas sensing unit
 11. 3.3V–5V step up DC-DC voltage converter
 12. 2 gram servomotor
-13. Stripboard (not critical, but recommended for BAT voltage bus)
+13. Stripboard (not critical, but recommended for VBAT power bus)
 14. Pull-up resistors (recommended for I2C bus)
 
 Hardware:
